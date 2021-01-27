@@ -18,11 +18,12 @@ Suggested steps to completing the final Part 3 of the Asteroids assignment
 6. Now, add just one bullet to your program. First, just draw it to the screen. Make sure you can see it before continuing to the next step.
 7. Now, move the bullet.
 8. Now create an `ArrayList` of Bullets. The list should be empty to start with. Everytime you press the key to "shoot", add a `new Bullet` to the `ArrayList`. Modify the program with loops that draw and move all the bullets in the ArrayList
-9. Check slides of [Asteroids Parts 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit#slide=id.gb3b1a5858b_0_131) presentation for some sample code that illustrates steps 1 - 8
+9. Check slides of [Asteroids Parts 3](https://docs.google.com/presentation/d/1eSpNZiI6WjTBA4Jn_s_0pSicocsRXhOUnGaTOms80CM/edit#slide=id.gb3b1a5858b_0_131) presentation for some sample code that illustrates steps 1 - 8.
 10. One way to check for collisions between the bullets and the Asteroids is to write a loop within a loop. 
    - a loop that goes through all the bullets to see if there is a collision between that bullet and the asteroid
    - if there is a collision remove both the asteroid and the bullet from their `ArrayLists` then use `break;` to stop the loop to prevent any index out of bounds execptions.
-11. Submit the same URL for your AsteroidsGame that you submitted for the three previous assignments to google classroom.
+11. Upload all updated files to Github using the same process you have used previously (drag and drop or edit in Github directly)
+12. Submit the same URL for your AsteroidsGame that you submitted for the previous assignment to new Google Classroom assignment for Asteroids Part 3.
 
 Extensions
 ----------
